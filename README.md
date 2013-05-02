@@ -24,3 +24,8 @@ are what I spend most of my time quoting.
 The catch phrase while I was at OpenX was
 
 > We do it to ourselves.
+
+Markdown Play
+-------------
+
+foo `bar` *baz*
