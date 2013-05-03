@@ -15,15 +15,18 @@ Here are some of my favorite quotes of all time.
 
 > Free software isn't free, but expensive software is expensive.
 
-and 
-
 > The great thing about standards is there are so many to choose from.
 
-are what I spend most of my time quoting.
+OpenX quotes
+------------
 
-The catch phrase while I was at OpenX was
+During my days at OpenX we often said:
 
 > We do it to ourselves.
+
+> Tested in Production
+
+Kelly handy brandy sifters with "Tested in Production" printed up.  Many lol's and toasts ensued.
 
 Markdown Play
 -------------
