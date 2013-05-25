@@ -5,8 +5,8 @@ I'm learning the Arduino and markdown, and you can watch me play.  :)
 
 ### Arduinos rule
 
-This technology has revived my love of computing.  Everyone knew the Italians were all about the love.
-Now we know they're strong in computing too. 
+This technology has revived my love of computing.  One of the last things I did at
+OpenX was host an Arduino Hackathon.
 
 Favorite quotes
 ---------------
@@ -26,7 +26,14 @@ During my days at OpenX we often said:
 
 > Tested in Production
 
-Kelly handy brandy sifters with "Tested in Production" printed up.  Many lol's and toasts ensued.
+Kelly even had brandy snifters printed up with "Tested in Production" etched on them.  Many lol's and toasts ensued.
+
+RHonda quotes
+------------
+
+My cousin Rhonda is full of amusing quotes, often with a rustic ring.
+
+> If it was easy anybody could do it.
 
 Markdown Play
 -------------
