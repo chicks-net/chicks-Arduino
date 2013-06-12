@@ -28,7 +28,7 @@ During my days at OpenX we often said:
 
 Kelly even had brandy snifters printed up with "Tested in Production" etched on them.  Many lol's and toasts ensued.
 
-RHonda quotes
+Rhonda quotes
 ------------
 
 My cousin Rhonda is full of amusing quotes, often with a rustic ring.
